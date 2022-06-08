@@ -1,0 +1,9 @@
+
+
+Aprimorando meus conhecimentos em Git,
+no desafio do projeto Santander, onde executo todos os passos para a criação, atualização e sincronização 
+de um repositório no GitHub. Para isso, tenho em mente todas as dicas e direcionamentos 
+apresentados pelo prof. nas aulas. 
+para o meu portfólio ;-)
+
+git clone
